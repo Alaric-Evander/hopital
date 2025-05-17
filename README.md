@@ -25,3 +25,14 @@ Gestion des Transactions : L'annotation @Transactional est utilisée au niveau d
 Autres considérations techniques
 Lombok: Pour réduire la verbosité du code Java, des bibliothèques comme Lombok sont souvent utilisées. Des annotations comme @Data, @NoArgsConstructor, et @AllArgsConstructor génèrent automatiquement les getters, setters, constructeurs, méthodes toString(), equals(), et hashCode(), rendant le code des entités et autres objets de données plus concis.
 JSON Handling: Des annotations comme @JsonProperty peuvent être utilisées pour contrôler la sérialisation et la désérialisation des objets Java en JSON, par exemple pour ignorer certains champs lors de la conversion (souvent pour éviter des références circulaires ou des données inutiles dans les API REST).
+Captures d'écran :
+![image](https://github.com/user-attachments/assets/8463edaf-a88c-4a7c-af58-370aed448dd9)
+![image](https://github.com/user-attachments/assets/b0ca6e32-b5ad-413b-8a07-c91156076c75)
+![image](https://github.com/user-attachments/assets/a12fc7f3-cfef-45ef-bee6-33b0166cab9e)
+![image](https://github.com/user-attachments/assets/f86e2961-4e4f-41ee-bf0b-e0a18e059e5c)
+![image](https://github.com/user-attachments/assets/7a03bb46-bec9-45e5-bc64-aad6c14a4a3f)
+
+
+
+
+
